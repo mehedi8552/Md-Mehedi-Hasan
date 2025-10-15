@@ -1,0 +1,5 @@
+{
+  "name": "AI Headshot Generator",
+  "description": "Transform any photo into a professional, studio-quality headshot using AI. Upload a picture, provide optional instructions, and the AI will create a realistic, well-lit corporate-style photo with a blurred background, perfect for a business or LinkedIn profile.",
+  "requestFramePermissions": []
+}
